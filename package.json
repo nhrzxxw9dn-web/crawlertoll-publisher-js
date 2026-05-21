@@ -1,16 +1,16 @@
 {
   "name": "@crawlertoll/publisher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Publisher SDK + CLI for the Context License standard. One-command install for /.well-known/context-license.json. CC0 spec, Apache 2.0 implementation.",
   "license": "Apache-2.0",
   "author": "Charthouse Ltd",
   "homepage": "https://context-license.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhrzxxw9dn-web/crawlertoll-publisher-js.git"
+    "url": "git+https://github.com/charthouse-ltd/crawlertoll-publisher-js.git"
   },
   "bugs": {
-    "url": "https://github.com/nhrzxxw9dn-web/crawlertoll-publisher-js/issues"
+    "url": "https://github.com/charthouse-ltd/crawlertoll-publisher-js/issues"
   },
   "keywords": [
     "crawlertoll",

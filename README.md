@@ -66,7 +66,7 @@ npx @crawlertoll/publisher init
 ```
 
 Non-interactive — useful for scripts, CI, and the
-[execution checklist](https://github.com/crawlertoll/context-license-spec#adopters):
+[execution checklist](https://github.com/charthouse-ltd/context-license-spec#adopters):
 
 ```bash
 npx @crawlertoll/publisher init --yes \
@@ -272,7 +272,7 @@ Every release passes a 30-test vitest suite covering:
 Run yourself:
 
 ```bash
-git clone https://github.com/crawlertoll/crawlertoll-publisher-js
+git clone https://github.com/charthouse-ltd/crawlertoll-publisher-js
 cd crawlertoll-publisher-js
 npm install
 npm test
@@ -283,11 +283,15 @@ npm test
 ## Project links
 
 - **Spec**: [context-license.org/v0.1](https://context-license.org/v0.1)
-- **Spec repo**: [github.com/crawlertoll/context-license-spec](https://github.com/crawlertoll/context-license-spec)
-- **Manifesto**: [github.com/crawlertoll/crawlertoll/blob/main/MANIFESTO.md](https://github.com/crawlertoll/crawlertoll/blob/main/MANIFESTO.md)
+- **Spec repo**: [github.com/charthouse-ltd/context-license-spec](https://github.com/charthouse-ltd/context-license-spec)
+- **Manifesto**: [github.com/charthouse-ltd/crawlertoll/blob/main/MANIFESTO.md](https://github.com/charthouse-ltd/crawlertoll/blob/main/MANIFESTO.md)
 - **Marketplace**: [crawlertoll.com](https://crawlertoll.com)
 
 ## License
 
 [Apache-2.0](./LICENSE). The Context License spec itself is
 [CC0 1.0](https://context-license.org/v0.1) — fork the spec freely.
+
+## Trademark
+
+CrawlerToll™ is a trademark of Charthouse Ltd.

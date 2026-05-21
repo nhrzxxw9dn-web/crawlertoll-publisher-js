@@ -6,6 +6,12 @@ The package follows [Semantic Versioning](https://semver.org/). The
 underlying Context License spec is versioned independently — see
 [`context-license.org/v0.1`](https://context-license.org/v0.1).
 
+## [0.1.1] — 2026-05-21
+
+### Changed
+
+- Repository URL updated after the GitHub org rename `nhrzxxw9dn-web` → `charthouse-ltd` (npm scope unchanged: `@crawlertoll/*`). Metadata-only release; no code changes.
+
 ## [0.1.0] — 2026-05-19
 
 Initial public release. Ships alongside the v0.1 draft of the Context
